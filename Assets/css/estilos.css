@@ -1,0 +1,54 @@
+body{
+    font-family: "Open Sans";
+}
+/*Navbar*/
+
+.navbar {
+    background-color: #E83E8C !important;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-family: "Open Sans";
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/*Nuestros Productos*/
+#Nuestros-Productos {
+    color: #707070;
+    font-family: "Open Sans";
+}
+
+#Nuestros-Productos h1 {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+/*Ahora Aceptamos*/
+
+#Ahora-aceptamos {
+    background-color: #17A2B8;
+    padding: 100px;
+    color: white;
+}
+
+#Ahora-aceptamos h1 {
+    font-family: "Open Sans";
+
+}
+
+/*Footer*/
+
+#footer {
+    background-color: #E83E8C;
+    margin: auto;
+    position: center;
+
+}
+
+
